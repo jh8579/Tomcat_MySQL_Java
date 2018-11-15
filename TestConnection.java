@@ -59,7 +59,7 @@ public class TestConnection extends HttpServlet
 
         out.println("<HTML><HEAD><TITLE>2018 Toast 인턴 직원 목록</TITLE></HEAD>");
         out.println("<BODY><H1>2018 인턴 목록</H1>");
-        out.println("<BODY><H1>Version 1.0</H1>");
+        out.println("<BODY><H1>Version 2.0</H1>");
 
         // Load the mm.MySQL driver
         try
